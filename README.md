@@ -1,3 +1,5 @@
+Audited with [Rustle](https://github.com/blocksecteam/rustle), the first automatic auditor for NEAR Community
+
 # Smart Contract Functions
 ```rust
 // account_id - Must be a valid near account
